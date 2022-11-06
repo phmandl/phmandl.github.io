@@ -1,0 +1,1 @@
+The common folder we can also call it components folder, here we keep all the common HTML files which we will import later into the main pages with JavaScript.
